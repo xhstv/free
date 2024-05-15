@@ -11,13 +11,14 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
+"warningText": "此为试用版，有效期1个月",
 "sites":
 	[
-	     {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
+	     {"key":"豆瓣","name":"🚩试用版即将失效！请联系微信：iiiitop 延长观看时间！","type":3,"api":"csp_Douban","searchable":0},
 	   
 	   {
             "key": "韩小圈",
-            "name": "主力源",
+            "name": "🍅主力源",
             "type": 3,
             "api": "csp_HanXiaoQuan",
             "searchable": 1,
